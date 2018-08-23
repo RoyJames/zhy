@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenyu Tang"
 title_separator          : "-"
 name                     : &name "Zhenyu Tang"
-description              : &description "personal description"
+description              : &description "Research Assistant at University of Maryland-College Park"
 url                      : https://royjames.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/zhy" # the subpath of your site, e.g. "/blog"
 repository               : "RoyJames/zhy.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Zhenyu Tang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Assistant at University of Maryland-College Park, specialized in Computer Graphics, Sound Rendering, VR and AR."
+  location         : "A.V. Williams Bldg, 8223 Paint Branch Dr, College Park, MD 20740"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "zhy@cs.umd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
