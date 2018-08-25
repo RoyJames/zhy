@@ -7,4 +7,4 @@ venue: 'IEEE computer graphics and applications'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8402191/'
 ---
 
-<a href='https://ieeexplore.ieee.org/abstract/document/8402191/'>Download paper here</a>
+Find paper [here](https://ieeexplore.ieee.org/abstract/document/8402191/)

@@ -7,4 +7,4 @@ venue: 'International Workshop on Acoustic Signal Enhancement'
 paperurl: 'http://gamma.cs.unc.edu/SoundField/'
 ---
 
-<a href='http://gamma.cs.unc.edu/SoundField/'>Download paper here</a>
+Find paper [here](http://gamma.cs.unc.edu/SoundField/)

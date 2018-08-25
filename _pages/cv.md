@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. Opto-Electronics Information Science & Engineering, Zhejiang University, 2017
+* B.Eng. (with Honor) Opto-Electronics Information Science & Engineering, Zhejiang University, 2017
 * Ph.D in Computer Science, University of Maryland-College Park, 2022 (expected)
 
 Work experience
