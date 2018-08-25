@@ -14,4 +14,4 @@ My main interests and previous research involve Computer Graphics (sound renderi
 
 I was a research intern at the [Visualization and Interface Design Innovation (ViDi)](https://vidi.cs.ucdavis.edu/) research group in the University of California, Davis in summer 2016. I worked with Professor [Kwan-Liu Ma](http://web.cs.ucdavis.edu/~ma/)'s team on several visualization projects, and developed [LightPainter](https://vidi.cs.ucdavis.edu/~yilchen/LightPainter/index.html).
 
-I'am currently pursuing projects involving spatial sound rendering in virtual environments, and the application of sound simulation in real-world (e.g. soundfields, localization, de-reverberation). If you have interesting thoughts or would like to collaborate, you are welcome to contact me.
+I am currently pursuing projects involving spatial sound rendering in virtual environments, and the application of sound simulation in real-world (e.g. soundfields, localization, de-reverberation). If you have interesting thoughts or would like to collaborate, you are welcome to contact me.
