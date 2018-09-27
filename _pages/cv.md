@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download PDF version [here](../files/resume090318.pdf).
+Download PDF version [here](../files/resume.pdf).
 
 Education
 ======
