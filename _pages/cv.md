@@ -33,4 +33,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+Awards
+======
+* Dean's Fellowship, University of Maryland, 2018
+* Outstanding Research Scholarship, Zhejiang University, 2017
