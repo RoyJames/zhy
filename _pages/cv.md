@@ -17,22 +17,21 @@ Education
 
 Work experience
 ======
-* Summer 2016: Research Assistant
-  * University of California-Davis
-  * Duties included: Developing HCI softwares for commercial and research collaborators
-  * Supervisor: Professor Kwan-Liu Ma
+* Summer 2019: Creative Intelligence Lab Intern
+  * Adobe Research
+  * Duties included: Develop the first learning based scene-aware audio synthesis system for AR
+  * Supervisor: Timothy Langlois, Dingzeyu Li, Nick Bryan
 
 * Aug 2017~Aug 2018: Research Assistant
   * University of North Carolina-Chapel Hill
   * Duties included: Research on sound propagation and optimization
   * Supervisor: Professor Dinesh Manocha
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Summer 2016: Research Assistant
+  * University of California-Davis
+  * Duties included: Developing HCI softwares for commercial and research collaborators
+  * Supervisor: Professor Kwan-Liu Ma
+ 
 Awards
 ======
 * Dean's Fellowship, University of Maryland, 2018
