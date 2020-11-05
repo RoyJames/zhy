@@ -15,6 +15,11 @@ Education
 
 Work experience
 ======
+* Summer 2020: Research Intern
+  * Facebook Reality Labs
+  * Duties included: Investigate multi-channel far-field sound propagation for speech enhancement
+  * Supervisor: Buye Xu
+  
 * Summer 2019: Creative Intelligence Lab Intern
   * Adobe Research
   * Duties included: Develop the first learning based scene-aware audio synthesis system for AR
