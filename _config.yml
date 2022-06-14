@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenyu Tang"
 title_separator          : "-"
 name                     : &name "Zhenyu Tang"
-description              : &description "Research Assistant at University of Maryland-College Park"
+description              : &description "Research scientist at TikTok/ByteDance Mountain View"
 url                      : https://royjames.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/zhy" # the subpath of your site, e.g. "/blog"
 repository               : "RoyJames/zhy.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Zhenyu Tang"
   avatar           : "profile.png"
-  bio              : "Research Assistant at University of Maryland-College Park, specialized in Computer Graphics, Sound Rendering, VR and AR. Expected graduation in 2022."
+  bio              : "Research scientist in Speech, Audio & Music Intelligence (SAMI) group at TikTok (ByteDance) based in Mountain View."
   location         : "College Park, MD 20740"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gPGVGTkAAAAJ&hl=en&oi=ao"
